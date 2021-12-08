@@ -24,6 +24,6 @@ def decode(code)
   traduced_code.rstrip
 end
 
-# puts decode_char('.-') => A
-# puts decode_word('-- -.--') => MY
+puts decode_char('.-') # => A
+puts decode_word('-- -.--') # => MY
 puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...') # => A BOX FULL OF RUBIES
