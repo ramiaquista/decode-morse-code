@@ -29,6 +29,14 @@ Go to the top of the page, press te green button that says "Code", and copy the 
 
 No extra dependencies needed to use the code!
 
+### Test
+
+- Ruby Testing
+
+```
+rubocop
+```
+
 ### Usage
 
 - Once you clone the repository:
