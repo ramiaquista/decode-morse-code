@@ -16,5 +16,14 @@ def decode_word(word)
   result
 end
 
-# puts decode_char('.-')
-# puts decode_word('-- -.--')
+def decode(code)
+  traduced_code = ''
+  code.split('   ').each do |word|
+    traduced_code = "#{traduced_code}#{decode_word(word)} "
+  end
+  traduced_code.rstrip
+end
+
+# puts decode_char('.-') => A
+# puts decode_word('-- -.--') => MY
+puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...') # => A BOX FULL OF RUBIES
