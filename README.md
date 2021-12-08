@@ -55,6 +55,12 @@ You are ready to go!
 - Twitter: [@ramiaq1](https://twitter.com/ramiaq1)
 - LinkedIn: [RamiroAquistapace](https://www.linkedin.com/in/ramiro-aquistapace-32b61b204/)
 
+👤 **Dico Diaz Dussan**
+
+- GitHub: [@dicodiaz](https://github.com/dicodiaz)
+- LinkedIn: [Dico Diaz Dussan](https://www.linkedin.com/in/dico-diaz-dussan/)
+- Portfolio: [dicodiaz.com.co](https://dicodiaz.com.co)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -64,4 +70,3 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project! 😄
 
 ## Acknowledgments
-
