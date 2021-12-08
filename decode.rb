@@ -8,4 +8,13 @@ def decode_char(char)
   morse_letter[char]
 end
 
+def decode_word(word)
+  result = ''
+  word.split.each do |letter|
+    result = "#{result}#{decode_char(letter)}"
+  end
+  result
+end
+
 # puts decode_char('.-')
+# puts decode_word('-- -.--')
